@@ -9,3 +9,5 @@ Formation Git Basiques pour Sopra Steria du 12/07/2021
 * git status
 * git commit
 * git log
+* git show
+* git diff
