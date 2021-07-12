@@ -11,3 +11,10 @@ Formation Git Basiques pour Sopra Steria du 12/07/2021
 * git log
 * git show
 * git diff
+
+## Memento des commandes liées aux branches
+
+* git branch
+* git switch
+* git checkout
+* git merge
