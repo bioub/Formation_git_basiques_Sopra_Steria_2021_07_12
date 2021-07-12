@@ -6,4 +6,5 @@ Formation Git Basiques pour Sopra Steria du 12/07/2021
 
 * git init
 * git add
+* git status
 * git commit
