@@ -18,3 +18,10 @@ Formation Git Basiques pour Sopra Steria du 12/07/2021
 * git switch
 * git checkout
 * git merge
+
+## Workflows connus
+
+* Centralized Worflow
+* Gitflow
+* GitHub Flow
+* Gitlab Flow
